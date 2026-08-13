@@ -1,0 +1,16 @@
+escenario,descripcion_escenario,hectareas_reconvertidas,cultivo_origen,cultivo_destino,tipo_cultivo,delta_empleos_totales,delta_empleos_formales,delta_jornales_anuales,delta_valor_bruto_usd,multiplicador_empleo
+Conservador,Piloto regional focalizado,5000,Maíz Duro,Arándano,alto_valor,12000,10200,700000,172720000,7.0
+Conservador,Piloto regional focalizado,5000,Maíz Duro,Pitahaya,alto_valor,8000,6200,600000,124720000,5.0
+Conservador,Piloto regional focalizado,5000,Maíz Duro,Uvilla,alto_valor,7000,4650,500000,64720000,4.5
+Conservador,Piloto regional focalizado,5000,Maíz Duro,Aguacate Hass,alto_valor,4000,3300,400000,62720000,3.0
+Conservador,Piloto regional focalizado,5000,Maíz Duro,Cacao,tradicional,2500,1050,300000,9770000,2.25
+Moderado,Programa provincial articulado,15000,Maíz Duro,Arándano,alto_valor,36000,30600,2100000,518160000,7.0
+Moderado,Programa provincial articulado,15000,Maíz Duro,Pitahaya,alto_valor,24000,18600,1800000,374160000,5.0
+Moderado,Programa provincial articulado,15000,Maíz Duro,Uvilla,alto_valor,21000,13950,1500000,194160000,4.5
+Moderado,Programa provincial articulado,15000,Maíz Duro,Aguacate Hass,alto_valor,12000,9900,1200000,188160000,3.0
+Moderado,Programa provincial articulado,15000,Maíz Duro,Cacao,tradicional,7500,3150,900000,29310000,2.25
+Ambicioso,Política nacional de reconversión,50000,Maíz Duro,Arándano,alto_valor,120000,102000,7000000,1727200000,7.0
+Ambicioso,Política nacional de reconversión,50000,Maíz Duro,Pitahaya,alto_valor,80000,62000,6000000,1247200000,5.0
+Ambicioso,Política nacional de reconversión,50000,Maíz Duro,Uvilla,alto_valor,70000,46500,5000000,647200000,4.5
+Ambicioso,Política nacional de reconversión,50000,Maíz Duro,Aguacate Hass,alto_valor,40000,33000,4000000,627200000,3.0
+Ambicioso,Política nacional de reconversión,50000,Maíz Duro,Cacao,tradicional,25000,10500,3000000,97700000,2.25
