@@ -9,3 +9,4 @@ Comparar brevemente con el caso del Banano
 Mencionar brevemente el caso Proají
 
 10/08/2026: Descarga y limpieza de datos
+13/08/2026: pipeline de análisis de datos
