@@ -1,5 +1,5 @@
-perfil,prob_subempleo,prob_pct
-Hombre No-Agricola,0.672389979883323,67.2
-Hombre Agricola,0.9458997093786675,94.6
-Mujer No-Agricola,0.2500379614039841,25.0
-Mujer Agricola,0.00018734649273094165,0.0
+perfil,prob_pct
+Hombre No-Agricola,89.5
+Hombre Agricola,97.4
+Mujer No-Agricola,89.1
+Mujer Agricola,95.9

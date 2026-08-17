@@ -7,3 +7,5 @@ seaborn
 openpyxl
 jupyter
 ipykernel
+plotly
+streamlit
